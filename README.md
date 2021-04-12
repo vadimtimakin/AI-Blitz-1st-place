@@ -4,17 +4,19 @@ This repository is my 1st place solution for [AI Blitz #7](https://www.aicrowd.c
 
 ## Task list
 
-1. [Rover Classification]()  
+1. [Rover Classification](https://github.com/t0efL/AI-Blitz-1st-place/blob/main/Rover%20Classification.pynb)  
 Classify Mars Rover Images
 
-2. [Debris Detection]()  
+2. [Debris Detection](https://github.com/t0efL/AI-Blitz-1st-place/tree/main/debris-detection)  
 Detect Space Debris
 
-3. [Stage Prediction]()  
+3. [Stage Prediction](https://github.com/t0efL/AI-Blitz-1st-place/blob/main/Stage%20Prediction.py)  
 Classify Stages of Mars Spacecraft
 
-4. [Mars Rotation]() - **Contribution Award Winner**  
+4. [Mars Rotation](https://github.com/t0efL/AI-Blitz-1st-place/blob/main/Mars%20Rotation.pynb) - **Contribution Award Winner**  
 Predict Mars Planet Rotation
 
-5. [Image Correction]()  
+5. [Image Correction](https://github.com/t0efL/AI-Blitz-1st-place/blob/main/Image%20Correction.py)  
 Fix Corrupted Mars Images
+
+More detailed descriptions of my solution are provided in some notebooks.
