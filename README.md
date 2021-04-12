@@ -13,8 +13,8 @@ Detect Space Debris
 3. [Stage Prediction]()  
 Classify Stages of Mars Spacecraft
 
-4. [Mars Rotation]() - **Contribution Award Winner**
+4. [Mars Rotation]() - **Contribution Award Winner**  
 Predict Mars Planet Rotation
 
-5. [Image Correction]()
+5. [Image Correction]()  
 Fix Corrupted Mars Images
